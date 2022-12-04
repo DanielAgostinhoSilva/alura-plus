@@ -143,3 +143,8 @@ body {
     padding: 0 10em;
 }
 
+.lista__link a:hover {
+    color: var(--botao-azul);
+}
+
+
